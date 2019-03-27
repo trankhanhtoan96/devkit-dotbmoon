@@ -90,3 +90,6 @@ Cách sử dụng: chèn các class trên vào các thẻ a,button,input mà b�
 <input class="btn btn-primary" type="button" value="Input">
 <input class="btn btn-danger" type="submit" value="Submit">
 ```
+
+<i class="fa fa-camera"></i>
+<a href="#">abc</a>
