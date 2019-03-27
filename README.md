@@ -1,7 +1,5 @@
-(setq markdown-css-paths '("https://stackpath.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"))
-
-#Các kỹ thuật xử lý giao diện
-##1. Grid system
+# Các kỹ thuật xử lý giao diện
+## 1. Grid system
 Giao diện được chia làm 12 cột trên 1 hàng ngang.
 
 * general
@@ -54,7 +52,7 @@ Giao diện được chia làm 12 cột trên 1 hàng ngang.
 </div>
 ```
 
-##2. Label
+## 2. Label
 
 ```html
 <span class="label">Default</span>
@@ -66,13 +64,13 @@ Giao diện được chia làm 12 cột trên 1 hàng ngang.
 <span class="label label-inverse">Inverse</span>
 ```
 
-##3. Icons
+## 3. Icons
 
 các icon ở đây là font-awesome phiên bản 4.2. xem danh sách trong link bên dưới.
 
 https://codepen.io/devmount/pen/dPOWgv
 
-##4. Button
+## 4. Button
 
 Có các loại button sau: 
 - btn
