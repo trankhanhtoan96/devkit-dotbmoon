@@ -4,7 +4,7 @@
 
 Giao diện được chia làm 12 cột trên 1 hàng ngang.
 
-* general
+* **general**
 
 ```html
 <div class="row-fluid">
@@ -13,7 +13,7 @@ Giao diện được chia làm 12 cột trên 1 hàng ngang.
 </div>
 ```
 
-* offset
+* **offset**
 
 ```html
 <div class="row-fluid">
@@ -22,7 +22,7 @@ Giao diện được chia làm 12 cột trên 1 hàng ngang.
 </div>
 ```
 
-* child grid of a column 
+* **child grid of a column** 
 
 ```html
 <div class="row-fluid">
@@ -93,15 +93,15 @@ Cách sử dụng: chèn các class trên vào các thẻ a,button,input mà b�
 <input class="btn btn-danger" type="submit" value="Submit">
 ```
 
-Button size: `btn-large`, `btn-small`, `btn-mini`
+**Button size**: `btn-large`, `btn-small`, `btn-mini`
 
-Button fullwidth: `.btn-block`
+**Button fullwidth**: `.btn-block`
 
-Button disabled: `.disabled`
+**Button disabled**: `.disabled`
 
-Invisible button background: `.btn-invisible`
+**Invisible button background**: `.btn-invisible`
 
-Button groupd: 
+**Button groupd**: 
 
 ```html
 <div class="btn-group">
@@ -119,7 +119,7 @@ Button groupd:
 </div>
 ```
 
-Button dropdown:
+**Button dropdown**:
 
 ```html
 <div class="btn-group">
@@ -133,7 +133,7 @@ Button dropdown:
 </div>
 ```
 
-Split button dropdowns:
+**Split button dropdowns**:
 
 ```html
 <div class="btn-group">
