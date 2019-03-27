@@ -1,10 +1,3 @@
-# Mục lục
-1. [Các kỹ thuật xử lý giao diện](#1-cc-k-thut-x-l-giao-din)
-    1. [Grid system](#i-grid-system)
-    2. [Label](#ii-label)
-    3. [Icon](#iii-icons)
-    4. [Button](#iv-button)
-
 # 1. Các kỹ thuật xử lý giao diện
 
 ## i. Grid system
