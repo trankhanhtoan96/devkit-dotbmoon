@@ -1,5 +1,14 @@
+# Mục lục
+
+1. [Grid system](#1-grid-system)
+2. [Label](#2-label)
+3. [Icon](#3-icons)
+4. [Button](#4-button)
+
 # Các kỹ thuật xử lý giao diện
+
 ## 1. Grid system
+
 Giao diện được chia làm 12 cột trên 1 hàng ngang.
 
 * general
@@ -89,5 +98,59 @@ Cách sử dụng: chèn các class trên vào các thẻ a,button,input mà b�
 <button class="btn btn-success" type="submit">Button</button>
 <input class="btn btn-primary" type="button" value="Input">
 <input class="btn btn-danger" type="submit" value="Submit">
+```
+
+Button size: `btn-large`, `btn-small`, `btn-mini`
+
+Button fullwidth: `.btn-block`
+
+Button disabled: `.disabled`
+
+Invisible button background: `.btn-invisible`
+
+Button groupd: 
+
+```html
+<div class="btn-group">
+  <a class="btn">1</a>
+  <a class="btn">2</a>
+  <a class="btn">3</a>
+</div>
+```
+
+```html
+<div class="btn-toolbar">
+  <div class="btn-group">
+    ...
+  </div>
+</div>
+```
+
+Button dropdown:
+
+```html
+<div class="btn-group">
+  <a class="btn dropdown-toggle" data-toggle="dropdown">
+    Action
+    <i class="fa fa-caret-down"></i>
+  </a>
+  <ul class="dropdown-menu">
+    <!-- dropdown menu links -->
+  </ul>
+</div>
+```
+
+Split button dropdowns:
+
+```html
+<div class="btn-group">
+  <a class="btn">Action</a>
+  <a class="btn dropdown-toggle" data-toggle="dropdown">
+    <i class="fa fa-caret-down"></i>
+  </a>
+  <ul class="dropdown-menu">
+    <!-- dropdown menu links -->
+  </ul>
+</div>
 ```
 
