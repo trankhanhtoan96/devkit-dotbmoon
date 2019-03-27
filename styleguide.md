@@ -1,6 +1,6 @@
-# 1. Các kỹ thuật xử lý giao diện
+# Các kỹ thuật xử lý giao diện
 
-## i. Grid system
+## 1. Grid system
 
 Giao diện được chia làm 12 cột trên 1 hàng ngang.
 
@@ -54,7 +54,7 @@ Giao diện được chia làm 12 cột trên 1 hàng ngang.
 </div>
 ```
 
-## ii. Label
+## 2. Label
 
 ```html
 <span class="label">Default</span>
@@ -66,13 +66,13 @@ Giao diện được chia làm 12 cột trên 1 hàng ngang.
 <span class="label label-inverse">Inverse</span>
 ```
 
-## iii. Icons
+## 3. Icons
 
 các icon ở đây là font-awesome phiên bản 4.2. xem danh sách trong link bên dưới.
 
 https://codepen.io/devmount/details/dPOWgv
 
-## iv. Button
+## 4. Button
 
 Có các loại button sau: 
 - btn
