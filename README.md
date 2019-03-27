@@ -68,7 +68,7 @@ Giao diện được chia làm 12 cột trên 1 hàng ngang.
 
 các icon ở đây là font-awesome phiên bản 4.2. xem danh sách trong link bên dưới.
 
-https://codepen.io/devmount/pen/dPOWgv
+https://codepen.io/devmount/details/dPOWgv
 
 ## 4. Button
 
