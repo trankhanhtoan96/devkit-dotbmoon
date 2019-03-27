@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="http://moon.dotb.vn/cache/themes/clients/base/default/sugar_f04412ea294536d0b1d7e90aea49cd7a.css" />
+
 # Các kỹ thuật xử lý giao diện
 ## 1. Grid system
 Giao diện được chia làm 12 cột trên 1 hàng ngang.
@@ -91,5 +93,7 @@ Cách sử dụng: chèn các class trên vào các thẻ a,button,input mà b�
 <input class="btn btn-danger" type="submit" value="Submit">
 ```
 
-<i class="fa fa-camera"></i>
-<a href="#">abc</a>
+<a class="btn" href="">Link</a>
+<button class="btn btn-success" type="submit">Button</button>
+<input class="btn btn-primary" type="button" value="Input">
+<input class="btn btn-danger" type="submit" value="Submit">
