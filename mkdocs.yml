@@ -1,0 +1,8 @@
+site_name: My Devkit
+nav:
+  - Home: index.md
+  - Deploy server:
+    - Auto backup source to Google Drive:  backup-with-google-drive.md
+theme: readthedocs
+extra_javascript:
+  - js/extra.js
