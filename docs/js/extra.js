@@ -8,4 +8,5 @@ $(document).ready(function () {
         $(this).closest('.caption-text').next().show();
     });
     $('.current').closest('.toctree-l1').find('.caption-text').next().show();
+    $('footer').remove();
 });

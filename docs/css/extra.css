@@ -1,0 +1,12 @@
+pre code{
+    font-size: 14px;
+}
+h1, h2, h3, h4, h5, h6, legend{
+    font-weight: normal;
+}
+.wy-nav-content-wrap{
+    background-color: #fff;
+}
+.hljs{
+    background-color: #fcfcfc;
+}
